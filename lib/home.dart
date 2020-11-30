@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  /// 此方法返回本地文件地址
+  /// 此方法返回本地  文件地址
   _getLocalFile() async {
     List arr = [];
     List<Directory> a = await getExternalStorageDirectories();
