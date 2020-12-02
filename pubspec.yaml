@@ -30,8 +30,6 @@ dependencies:
   cupertino_icons: ^1.0.0
   # 读取本地目录
   path_provider: ^1.6.24
-  # 播放器
-  audioplayers: ^0.16.2
   # 缓存数据
   shared_preferences: ^0.5.12+4
   # 视频
